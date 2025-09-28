@@ -24,7 +24,7 @@ An end-to-end dashboard built by our team using **MySQL**, **Python**, and **Str
 This project was collaboratively built by:
 
 - **Shaik Ahmed Uddin** (https://github.com/Ahmed7610) – SQL logic, backend integration, Python scripting and modular code architecture and presentation coordination  
-- **Kamini Kumari**(kaminikumari543/LabMetrix) –  Database schema design, SQl Querry
+- **Kamini Kumari**(https://github.com/kaminikumari543/LabMetrix) –  Database schema design, SQl Querry
 - **Sweety Singh** –  Streamlit dashboard design and frontend development 
 
 ## 🛠️ Setup Instructions
